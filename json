@@ -1,0 +1,65 @@
+[
+  {
+    "image": "https://images.pexels.com/photos/1022936/pexels-photo-1022936.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Mechelininkatu 15, 00100, Helsinki",
+    "size": 130,
+    "price": 1200000,
+    "text": "This charming apartment in a 1920s building offers a blend of historic character and modern comfort, perfect for urban living."
+  },
+  {
+    "image": "https://images.pexels.com/photos/323781/pexels-photo-323781.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Tehtaankatu 8, 00150, Helsinki",
+    "size": 160,
+    "price": 2500000,
+    "text": "Situated in a quiet neighborhood, this spacious residence combines classic design with modern amenities."
+  },
+  {
+    "image": "https://images.pexels.com/photos/276593/pexels-photo-276593.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Lapinlahdenkatu 1, 00180, Helsinki",
+    "size": 140,
+    "price": 1100000,
+    "text": "This light-filled apartment near the harbor offers beautiful views and a contemporary interior."
+  },
+  {
+    "image": "https://images.pexels.com/photos/209274/pexels-photo-209274.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Albertinkatu 25, 00180, Helsinki",
+    "size": 90,
+    "price": 750000,
+    "text": "An ideal home for those seeking a compact, stylish residence in the heart of Helsinki."
+  },
+  {
+    "image": "https://images.pexels.com/photos/534228/pexels-photo-534228.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Fredrikinkatu 50, 00100, Helsinki",
+    "size": 115,
+    "price": 980000,
+    "text": "Modern interiors and an open floor plan make this apartment a perfect fit for families or working professionals."
+  },
+  {
+    "image": "https://images.pexels.com/photos/280216/pexels-photo-280216.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Urheilukatu 5, 00250, Helsinki",
+    "size": 210,
+    "price": 2900000,
+    "text": "Luxurious penthouse with a private terrace, offering panoramic city views and top-notch amenities."
+  },
+  {
+    "image": "https://images.pexels.com/photos/158730/new-home-construction-retro-design-158730.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Aleksanterinkatu 20, 00170, Helsinki",
+    "size": 190,
+    "price": 2700000,
+    "text": "Historical property in a prime location, featuring restored original details and elegant living spaces."
+  },
+  {
+    "image": "https://images.pexels.com/photos/259646/pexels-photo-259646.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "address": "Ratakatu 3, 00120, Helsinki",
+    "size": 170,
+    "price": 2200000,
+    "text": "Spacious apartment with a modern touch, located in a vibrant neighborhood close to amenities."
+  },
+  {
+    "image": "https://images.pexels.com/photos/565324/pexels-photo-565324.jpeg?auto=compress&cs=tinysrgb&w=5500",
+    "address": "Runeberginkatu 40, 00100, Helsinki",
+    "size": 85,
+    "price": 680000,
+    "text": "Cozy residence ideal for a couple or single professional, with easy access to public transport and shopping areas."
+  }
+]
